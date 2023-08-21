@@ -57,3 +57,21 @@ And that's everything I've learned in the first week.
 
 ![몰루](/Images/몰루.jpg)
 
+> ## Work with other people
+
+When we want to work with other people, we need to make a copy so that other people can't directly change our work. Therefore, we make a folder of development and testing. People work in development file, then we test it, and then we pull the tested information to the main folder.
+
+After we push the tested information or project to the main folder, we just pull the project from main folder to work it on development folder again and again.
+
+
+git status
+git checkout operations/main (switch to branch x)
+git checkout -b operations (add branch)
+
+git push -u origin **operations** (needs to be the place where you want to push it)
+
+
+
+Then, in github, you checkout the merge in the branch, you confirm it if you want it to be in the repository.
+
+git branch -a (check all the branches you have)
