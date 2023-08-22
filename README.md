@@ -75,3 +75,10 @@ git push -u origin **operations** (needs to be the place where you want to push 
 Then, in github, you checkout the merge in the branch, you confirm it if you want it to be in the repository.
 
 git branch -a (check all the branches you have)
+
+git fetch --prune (erase empty branches)
+
+git branch -d "branch name" (delete branch)
+
+
+group repository add in by using clone
