@@ -80,5 +80,7 @@ git fetch --prune (erase empty branches)
 
 git branch -d "branch name" (delete branch)
 
-
 group repository add in by using clone
+
+
+### Merging from the computer
