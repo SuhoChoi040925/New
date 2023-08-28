@@ -84,3 +84,10 @@ group repository add in by using clone
 
 
 ### Merging from the computer
+
+
+git fetch --all, bring every info from the repository
+
+git push origin -d origin "branch"  *delete first*
+git push origin -d "branch"
+
